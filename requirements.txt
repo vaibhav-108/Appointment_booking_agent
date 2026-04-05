@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+langchain-text-splitters
+langgraph
+
+python-dotenv
+chromadb
+pydantic-settings
+streamlit
+requests
