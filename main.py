@@ -11,7 +11,7 @@ from dental_agent.agent import dental_graph
 BANNER = """
 ╔══════════════════════════════════════════════════════════╗
 ║         Dental Appointment Management System             ║
-║         Powered by LangGraph + ChatopenAI               ║
+║         Powered by LangGraph + ChatopenAI                ║
 ╚══════════════════════════════════════════════════════════╝
 Examples:
   • Show available slots for an orthodontist
